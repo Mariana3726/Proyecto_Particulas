@@ -1,0 +1,3 @@
+
+Aqui esta la lista de todos los archivos a ignorar
+requisitos.txt
