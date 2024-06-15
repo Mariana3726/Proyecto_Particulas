@@ -1,1 +1,2 @@
 requisitos.txt
+este archivo se encuentra dentro de la carpeta gitignore porque git la ignora aunque no la borra
